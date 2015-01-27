@@ -1,3 +1,6 @@
+NOTE: `zpm` has been merged into https://github.com/zerovm/zerovm.cli.
+Please use that from now on.
+
 zpm
 ===
 
